@@ -228,5 +228,5 @@ iframe{
 @media (max-width:435px){
   .contact-list {
     display: grid;
-    grid-template-columns: 320px;}
+    grid-template-columns: 319px;}
 }
