@@ -224,3 +224,9 @@ iframe{
   .float-cta { width: auto; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .btn { transition: none; } }
+
+@media (max-width:435px){
+  .contact-list {
+    display: grid;
+    grid-template-columns: 320px;}
+}
